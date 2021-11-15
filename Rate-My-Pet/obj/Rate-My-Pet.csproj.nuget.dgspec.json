@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jkepic\\Source\\Repos\\Rate-My-Pet\\Rate-My-Pet\\Rate-My-Pet.csproj": {}
+    "C:\\Users\\jkepic\\source\\repos\\Rate-My-Pet\\Rate-My-Pet\\Rate-My-Pet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jkepic\\Source\\Repos\\Rate-My-Pet\\Rate-My-Pet\\Rate-My-Pet.csproj": {
+    "C:\\Users\\jkepic\\source\\repos\\Rate-My-Pet\\Rate-My-Pet\\Rate-My-Pet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jkepic\\Source\\Repos\\Rate-My-Pet\\Rate-My-Pet\\Rate-My-Pet.csproj",
+        "projectUniqueName": "C:\\Users\\jkepic\\source\\repos\\Rate-My-Pet\\Rate-My-Pet\\Rate-My-Pet.csproj",
         "projectName": "Rate-My-Pet",
-        "projectPath": "C:\\Users\\jkepic\\Source\\Repos\\Rate-My-Pet\\Rate-My-Pet\\Rate-My-Pet.csproj",
+        "projectPath": "C:\\Users\\jkepic\\source\\repos\\Rate-My-Pet\\Rate-My-Pet\\Rate-My-Pet.csproj",
         "packagesPath": "C:\\Users\\jkepic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jkepic\\Source\\Repos\\Rate-My-Pet\\Rate-My-Pet\\obj\\",
+        "outputPath": "C:\\Users\\jkepic\\source\\repos\\Rate-My-Pet\\Rate-My-Pet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
